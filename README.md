@@ -4,14 +4,14 @@ An AI-powered code editor and publishing platform that combines the best of VS C
 
 ## Features
 
-- 🚀 **Smart AI Autocomplete** - Powered by GPT-4 with inline suggestions
-- 🎨 **Modern UI** - Dark/light modes with bento-grid layouts and glow effects
-- 🤝 **Real-time Collaboration** - Multi-user live editing with WebSockets
-- 📁 **Project Management** - GitHub-style file explorer and project dashboard
-- 🔍 **Code Intelligence** - Explain and refactor code with AI assistance
-- 📝 **Live Markdown Preview** - Real-time documentation editing
-- 🔐 **Secure Authentication** - OAuth2 with Google and GitHub
-- 🚢 **Auto-deployment** - Docker containers with CI/CD pipeline
+- **Smart AI Autocomplete** - Powered by GPT-4 with inline suggestions
+- **Modern UI** - Dark/light modes with bento-grid layouts and glow effects
+- **Real-time Collaboration** - Multi-user live editing with WebSockets
+- **Project Management** - GitHub-style file explorer and project dashboard
+- **Code Intelligence** - Explain and refactor code with AI assistance
+- **Live Markdown Preview** - Real-time documentation editing
+- **Secure Authentication** - OAuth2 with Google and GitHub
+- **Auto-deployment** - Docker containers with CI/CD pipeline
 
 ## Tech Stack
 
